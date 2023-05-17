@@ -1,5 +1,5 @@
 Name: hyprland
-Version: v0.22.0beta
+Version: v0.25.0
 Release: 13%{?dist}
 License: BSD
 Summary: A dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -11,7 +11,7 @@ Url: https://github.com/hyprwm/Hyprland
 # sha512sum source-v0.22.0beta.tar.gz
 # ff31cb45a33ede5173d0ddc47564744a9e58c6014a807a78102858d032bd91a53b8bd680813ca8d26d3c5c0d8e9a0f429b3c8b641e622a342fe5a95a348e45da
 
-Source0: https://github.com/hyprwm/Hyprland/releases/download/%{version}/source-%{version}.tar.gz
+Source0: https://github.com/hyprwm/Hyprland/releases/download/%{version}/source-%{version}-2.tar.gz
 
 ExclusiveArch: x86_64
 
